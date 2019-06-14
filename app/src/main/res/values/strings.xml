@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Afolus Technology Solutions</string>
+    <string name="afolus_background_logo">Afolus Background Logo</string>
+    <string name="afolus_technology_solution">Afolus Technology Solution</string>
+    <string name="phone_numbers">0814 012 3456, 0809 012 3456</string>
+    <string name="email">info@afolustechsolutions.com</string>
+    <string name="website">www.afolustechsolutions.com</string>
+    <string name="address">Floor 2, Obafemi Awolowo Glass House, off Herbert Macaulay Way, GRA Ikeja, Lagos</string>
+    <string name="time_schedule">Mon - Sat, 8a.m - 6p.m</string>
+    <string name="biz_description">We bring solutions to every technological challenges. We do CCTV installation and maintenance, ATM installation and maintenance, website design and development, mobile solution development.</string>
+</resources>
